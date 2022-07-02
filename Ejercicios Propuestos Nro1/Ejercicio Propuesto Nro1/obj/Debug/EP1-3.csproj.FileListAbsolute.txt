@@ -1,0 +1,8 @@
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\bin\Debug\Ejercicio Propuesto Nro1.exe.config
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\bin\Debug\Ejercicio Propuesto Nro1.exe
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\bin\Debug\Ejercicio Propuesto Nro1.pdb
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\obj\Debug\EP1-3.csproj.AssemblyReference.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\obj\Debug\EP1-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\obj\Debug\EP1-3.csproj.CoreCompileInputs.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\obj\Debug\Ejercicio Propuesto Nro1.exe
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\Ejercicio Propuesto Nro1\obj\Debug\Ejercicio Propuesto Nro1.pdb

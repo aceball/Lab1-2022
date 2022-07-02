@@ -1,0 +1,8 @@
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\bin\Debug\EP1-1.exe.config
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\bin\Debug\EP1-1.exe
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\bin\Debug\EP1-1.pdb
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\obj\Debug\EP1-1.csproj.AssemblyReference.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\obj\Debug\EP1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\obj\Debug\EP1-1.csproj.CoreCompileInputs.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\obj\Debug\EP1-1.exe
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_lab\Ejercicio propuesto Nro. 1\Ejercicio Propuesto Nro1\EP1-1\obj\Debug\EP1-1.pdb
